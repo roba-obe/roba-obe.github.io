@@ -1,0 +1,64 @@
+
+body {
+width: auto;
+    text-align: center;
+    background:url(bg.jpg);
+    padding: 150px;
+    padding-top: 50px;
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(35,55,35);
+}
+.contactinfo {
+    text-align: center;
+    background: rgb(0,0,0);
+
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(30,55,35);
+    text-align: center;
+    
+}
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(30, 55, 35);
+    font-size: xx-large;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(30, 55, 35);
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(30,55,35);
+    font-size: xx-large;
+}
+h5{
+    font-family: cursive;
+    color: rgba(30,55,35);
+    font-size: large;
+}
+h6{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(30,55,35);
+    font-size: large;
+}
+h7{
+    text-align: center;
+    font-family:cursive;
+    color: rgba(30,55,35);
+    font-size: large;
+}
+a{
+    text-align: center;
+    font-family:cursive;
+    color: rgba(30,55,35);
+    font-size: medium;
+}
+h8{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(30,55,35);
+    text-align: center;
+    font-size: small ;
